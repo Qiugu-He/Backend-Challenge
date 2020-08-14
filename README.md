@@ -1,9 +1,9 @@
-Developing Enviornment:
+## Developing Enviornment:
 IDE: VS Code
 node: v12.4.0
 npm: 6.9.0
 
-To start: 
+## To start: 
 - install npm and dependencies:
     npm install
 
