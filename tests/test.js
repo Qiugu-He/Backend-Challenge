@@ -71,7 +71,6 @@ describe('Testing route: /api/posts ', function() {
             done();
     });
 
-
 });
 
 
